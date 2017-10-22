@@ -1,2 +1,2 @@
 # COMP-143---Fall-2017---TA
-Project solutions from COMP 143 course
+Project solutions for the students in my COMP 143 course
